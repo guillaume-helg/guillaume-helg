@@ -26,10 +26,10 @@ More informations on my website: **[guillaume-helg.com](https://guillaume-helg.n
 
 ## [💭 Video downloader *(2023)*](https://github.com/)
 
-This project is a bot that generate random French proverb images and post them every day on its own Twitter account *(with more than 10 thousand followers)*...
+This project is a program  who's download youtube video or a playlist with the link you gave it in command line
 
 <p align="center">
-	<a href="https://twitter.com/TheProverbot"><img src="https://raw.githubusercontent.com/angeluriot/Proverbot/master/misc/thumbnail.png" width="400"></a>
+	<a href="https://twitter.com/TheProverbot"><img src="" width="400"></a>
 </p>
 
 <br>
