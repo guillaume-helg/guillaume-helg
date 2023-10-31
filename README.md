@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**guillaume-helg/guillaume-helg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👦 About me
 
-Here are some ideas to get you started:
+Hi! I’m a french student aspiring to be software engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More informations on my website: **[guillaume-helg.com](https://guillaume-helg.netlify.app/)**
+
+<br>
+
+# 📭 Contact
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/guillaume-helg/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:guillaume.helg@toulouse.miage.fr">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+</p>
+
+<br>
+
+# 📂 Projects
+
+
